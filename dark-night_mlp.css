@@ -627,12 +627,12 @@ html.busy-cursor * {
 
 body {
   background:
-    radial-gradient(circle at top left,
+    /* radial-gradient(circle at top left,
       #ff8ad6 0%,
       #c77dff 22%,
       #7dd3ff 44%,
       #9ff6d6 66%,
-      #160926 100%)
+      #160926 100%) */
      url("https://ptero-pranks.github.io/mlp/mlp.png");
   margin: 0 auto;
 }
